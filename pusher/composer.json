@@ -1,0 +1,12 @@
+{
+    "name": "user/pusher",
+    "authors": [
+        {
+            "name": "Marsel Sotiri",
+            "email": "marselsotiri@gmail.com"
+        }
+    ],
+    "require": {
+        "pusher/pusher-php-server": "^4.1"
+    }
+}
