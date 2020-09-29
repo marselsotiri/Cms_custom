@@ -12,6 +12,7 @@
             <!-- Blog Entries Column -->
             <div class="col-md-8">
                 
+                
              <?php    
                 
 $query="SELECT * FROM posts ";       
